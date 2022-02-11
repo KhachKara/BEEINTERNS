@@ -1,0 +1,3952 @@
+/* beeinterns_test */
+
+position: relative;
+width: 1440px;
+height: 810px;
+
+background: #2B2C3A;
+
+
+/* background */
+
+position: absolute;
+width: 1440px;
+height: 810px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(135deg, rgba(255, 255, 255, 0.0001) 0%, rgba(255, 255, 255, 0.1) 100%);
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* weekly_quests  */
+
+position: absolute;
+width: 1050px;
+height: 360px;
+left: 335px;
+top: 112px;
+
+
+
+/* item-4 */
+
+position: absolute;
+left: 75.71%;
+right: 0%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 16.85%;
+right: 24.72%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 67.84%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 10.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -16.13%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Наследие и каскад */
+
+position: absolute;
+height: 18px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 18px/2 + 43px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Наследие и каскад */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 40.39%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Object */
+
+position: absolute;
+width: 256px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Bitmap */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 51.02%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 51.02%;
+
+background: rgba(52, 53, 67, 0.0001);
+
+
+/* nick-karvounis-TkZYCXmrKK4-unsplash */
+
+position: absolute;
+left: 0%;
+right: -1.96%;
+top: 0%;
+bottom: 41.04%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 5.88%;
+right: 74.51%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 10%;
+right: 12%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-3 */
+
+position: absolute;
+left: 50.67%;
+right: 25.05%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 20.22%;
+right: 21.35%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 67.45%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 08.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -7.94%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Базовый синтаксис CS */
+
+position: absolute;
+height: 36px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 36px/2 + 52px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* CSS */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 82.75%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* pankaj-patel-SXihyA4oEJs-unsplash */
+
+position: absolute;
+left: -8.24%;
+right: -7.84%;
+top: -3.74%;
+bottom: 36.63%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 2.75%;
+right: 77.65%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-2 */
+
+position: absolute;
+left: 25.33%;
+right: 50.38%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 20.22%;
+right: 21.35%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 67.45%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 03.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -7.94%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Виды подключения сти */
+
+position: absolute;
+height: 36px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 36px/2 + 52px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Подключение стилей */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 34.51%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* ferenc-almasi-NzERTNpnaDw-unsplash */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 41.13%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 2.75%;
+right: 77.65%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-1 */
+
+position: absolute;
+left: 0%;
+right: 75.71%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 20.22%;
+right: 21.35%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 67.45%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 01.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -8.06%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Назначение блоков: h */
+
+position: absolute;
+height: 18px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 18px/2 + 43px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Структура HTML */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 50.2%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* maik-jonietz-_yMciiStJyY-unsplash */
+
+position: absolute;
+left: -0.39%;
+right: -0.39%;
+top: -6.12%;
+bottom: 47.96%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 5.88%;
+right: 74.51%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* arrow_left */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1020px;
+top: 11px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 100%;
+right: -2.86%;
+top: 3.06%;
+bottom: 88.61%;
+
+mix-blend-mode: normal;
+opacity: 0.15;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 4px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 98.29%;
+right: 1.14%;
+top: 5.83%;
+bottom: 91.39%;
+
+background: #FFFFFF;
+
+
+/* arrow_right */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 985px;
+top: 11px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 93.81%;
+right: 3.33%;
+top: 3.06%;
+bottom: 88.61%;
+
+mix-blend-mode: normal;
+opacity: 0.15;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 94.95%;
+right: 4.48%;
+top: 5.83%;
+bottom: 91.39%;
+
+background: #FFFFFF;
+
+
+/* CTA */
+
+position: absolute;
+left: 84.67%;
+right: 7.14%;
+top: 3.06%;
+bottom: 88.61%;
+
+
+
+/* Rectangle Copy 4 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Все лекции */
+
+position: absolute;
+height: 17px;
+left: 15.12%;
+right: 13.95%;
+top: calc(50% - 17px/2 + 0.5px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* HTML/CSS */
+
+position: absolute;
+height: 18px;
+left: 0%;
+right: 90%;
+top: calc(50% - 18px/2 - 148px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 18px;
+/* identical to box height, or 82% */
+
+color: #FFFFFF;
+
+
+
+/* Базовый уровень */
+
+position: absolute;
+height: 16px;
+left: 0%;
+right: 90.29%;
+top: calc(50% - 16px/2 - 172px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* weekly_quests  copy */
+
+position: absolute;
+width: 1050px;
+height: 360px;
+left: 335px;
+top: 532px;
+
+
+
+/* item-4 */
+
+position: absolute;
+left: 75.71%;
+right: 0%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 16.85%;
+right: 24.72%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 69.8%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 10.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -8.06%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* CSS Grid */
+
+position: absolute;
+height: 18px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 18px/2 + 43px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* CSS Grid */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 68.63%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Object */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+
+
+/* Bitmap */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 51.02%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 51.02%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 51.02%;
+
+background: rgba(52, 53, 67, 0.0001);
+
+
+/* nick-karvounis-TkZYCXmrKK4-unsplash */
+
+position: absolute;
+left: 0%;
+right: -1.96%;
+top: 0%;
+bottom: 41.04%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 5.88%;
+right: 74.51%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-3 */
+
+position: absolute;
+left: 50.67%;
+right: 25.05%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 16.85%;
+right: 24.72%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 69.41%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 08.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -7.94%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Адаптивная верстка. */
+
+position: absolute;
+height: 36px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 36px/2 + 52px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Media и viewport */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 47.84%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* pankaj-patel-SXihyA4oEJs-unsplash */
+
+position: absolute;
+left: -8.24%;
+right: -7.84%;
+top: -3.74%;
+bottom: 36.63%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 2.75%;
+right: 77.65%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 14%;
+right: 8%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-2 */
+
+position: absolute;
+left: 25.33%;
+right: 50.38%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 16.85%;
+right: 24.72%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 69.41%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 03.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -7.94%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Принципы современной */
+
+position: absolute;
+height: 36px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 36px/2 + 52px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Flex */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 83.53%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* ferenc-almasi-NzERTNpnaDw-unsplash */
+
+position: absolute;
+left: 0%;
+right: -0.39%;
+top: 0%;
+bottom: 41.13%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 2.75%;
+right: 77.65%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* item-1 */
+
+position: absolute;
+left: 0%;
+right: 75.71%;
+top: 18.33%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.04;
+border-radius: 6px;
+
+
+/* Group */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 15px;
+top: 249px;
+
+
+
+/* CTA */
+
+position: absolute;
+left: 59.22%;
+right: 5.88%;
+top: 84.69%;
+bottom: 5.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Смотреть */
+
+position: absolute;
+height: 10px;
+left: 16.85%;
+right: 24.72%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins */
+
+position: absolute;
+left: 5.88%;
+right: 69.8%;
+top: 88.1%;
+bottom: 8.5%;
+
+
+
+/* 01.02.2022 */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: -8.06%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 78.91%;
+bottom: 20.75%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* HTML-формы */
+
+position: absolute;
+height: 18px;
+left: 5.88%;
+right: 9.8%;
+top: calc(50% - 18px/2 + 43px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* HTML-формы */
+
+position: absolute;
+height: 12px;
+left: 5.88%;
+right: 58.82%;
+top: calc(50% - 12px/2 + 18px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+
+color: #FFFFFF;
+
+
+
+/* img */
+
+position: absolute;
+width: 255px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.03;
+border-radius: 6px 6px 0px 0px;
+
+
+/* Mask Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 51.02%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 6px 6px 0px 0px;
+
+
+/* maik-jonietz-_yMciiStJyY-unsplash */
+
+position: absolute;
+left: -0.39%;
+right: -0.39%;
+top: -6.12%;
+bottom: 47.96%;
+
+background: url(Image.png);
+
+
+/* action */
+
+position: absolute;
+left: 5.88%;
+right: 74.51%;
+top: 5.1%;
+bottom: 88.1%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+border-radius: 3px;
+
+
+/* Лекция */
+
+position: absolute;
+height: 12px;
+left: 12%;
+right: 10%;
+top: calc(50% - 12px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* arrow_left */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1020px;
+top: 11px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 100%;
+right: -2.86%;
+top: 3.06%;
+bottom: 88.61%;
+
+mix-blend-mode: normal;
+opacity: 0.15;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 4px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 98.29%;
+right: 1.14%;
+top: 5.83%;
+bottom: 91.39%;
+
+background: #FFFFFF;
+
+
+/* arrow_right */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 985px;
+top: 11px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 93.81%;
+right: 3.33%;
+top: 3.06%;
+bottom: 88.61%;
+
+mix-blend-mode: normal;
+opacity: 0.15;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 94.95%;
+right: 4.48%;
+top: 5.83%;
+bottom: 91.39%;
+
+background: #FFFFFF;
+
+
+/* CTA */
+
+position: absolute;
+left: 84.67%;
+right: 7.14%;
+top: 3.06%;
+bottom: 88.61%;
+
+
+
+/* Rectangle Copy 4 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+border-radius: 4px;
+
+
+/* Все лекции */
+
+position: absolute;
+height: 17px;
+left: 15.12%;
+right: 13.95%;
+top: calc(50% - 17px/2 + 0.5px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* HTML/CSS */
+
+position: absolute;
+height: 18px;
+left: 0%;
+right: 90%;
+top: calc(50% - 18px/2 - 148px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 18px;
+/* identical to box height, or 82% */
+
+color: #FFFFFF;
+
+
+
+/* продвинутый уровень */
+
+position: absolute;
+height: 16px;
+left: 0%;
+right: 87.33%;
+top: calc(50% - 16px/2 - 172px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* topbar */
+
+position: absolute;
+width: 1160px;
+height: 58px;
+left: 280px;
+top: 14px;
+
+
+
+/* Rectangle 34 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 98.28%;
+bottom: 0%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* account info */
+
+position: absolute;
+left: 79.74%;
+right: 3.88%;
+top: 0%;
+bottom: 24.14%;
+
+
+
+/* pro */
+
+position: absolute;
+left: 78.95%;
+right: 0%;
+top: 18.18%;
+bottom: 50%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+box-shadow: 0px 0px 12px rgba(111, 110, 255, 0.5);
+border-radius: 4px;
+
+
+/* Pro */
+
+position: absolute;
+height: 10px;
+left: 20%;
+right: 27.5%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height, or 91% */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* online */
+
+position: absolute;
+left: 32.11%;
+right: 42.63%;
+top: 61.36%;
+bottom: 15.91%;
+
+
+
+/* Online */
+
+position: absolute;
+height: 10px;
+left: 22.92%;
+right: -6.25%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #24CB8D;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 0%;
+right: 87.5%;
+top: 30%;
+bottom: 10%;
+
+background: #24CB8D;
+
+
+/* Вася Пупкин */
+
+position: absolute;
+height: 10px;
+left: 30%;
+right: 28.95%;
+top: calc(50% - 10px/2 - 9px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+filter: drop-shadow(0px 0px 14px rgba(0, 0, 0, 0.1));
+
+
+/* mulyadi-kL4coQHVj_A-unsplash */
+
+position: absolute;
+left: 0%;
+right: 76.84%;
+top: 0%;
+bottom: 0%;
+
+background: url(Image.png);
+
+
+/* energy */
+
+position: absolute;
+left: 69.66%;
+right: 20.78%;
+top: 17.24%;
+bottom: 41.38%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 7.21%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.06;
+border-radius: 5px;
+
+
+/* часов */
+
+position: absolute;
+height: 10px;
+left: 60.36%;
+right: 15.32%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height, or 91% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* 1200 */
+
+position: absolute;
+height: 10px;
+left: 27.93%;
+right: 43.24%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+left: 2.7%;
+right: 81.08%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FF4738;
+box-shadow: 0px 0px 12px rgba(255, 71, 56, 0.5);
+border-radius: 4px;
+
+
+/* icon-1 */
+
+position: absolute;
+left: 8.11%;
+right: 85.59%;
+top: 25%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* coins */
+
+position: absolute;
+left: 61.81%;
+right: 31.21%;
+top: 17.24%;
+bottom: 41.38%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.06;
+border-radius: 5px;
+
+
+/* 18 лекций */
+
+position: absolute;
+height: 10px;
+left: 11.04%;
+right: 9.23%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* coins copy */
+
+position: absolute;
+left: 52.67%;
+right: 39.05%;
+top: 17.24%;
+bottom: 41.38%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.06;
+border-radius: 5px;
+
+
+/* 15 готовых дз */
+
+position: absolute;
+height: 10px;
+left: 9.38%;
+right: 9.38%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 10px;
+/* identical to box height, or 77% */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle Copy */
+
+position: absolute;
+left: 25.69%;
+right: 74.22%;
+top: 17.24%;
+bottom: 41.38%;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Поддержка */
+
+position: absolute;
+height: 10px;
+left: 9.4%;
+right: 84.31%;
+top: calc(50% - 10px/2 - 7px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* Настройки */
+
+position: absolute;
+height: 10px;
+left: 17.67%;
+right: 76.72%;
+top: calc(50% - 10px/2 - 7px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* FAQ */
+
+position: absolute;
+height: 10px;
+left: 4.74%;
+right: 93.02%;
+top: calc(50% - 10px/2 - 7px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* leftBar */
+
+position: absolute;
+width: 280px;
+height: 810px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask */
+
+position: absolute;
+width: 280px;
+height: 810px;
+left: 0px;
+top: 0px;
+
+background: rgba(156, 165, 236, 0.04);
+
+
+/* switcher */
+
+position: absolute;
+width: 220px;
+height: 22px;
+left: 30px;
+top: 757px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+left: 80.91%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 15px;
+
+
+/* Oval 4 */
+
+position: absolute;
+left: 91.36%;
+right: 1.36%;
+top: 13.64%;
+bottom: 13.64%;
+
+background: #6F6EFF;
+box-shadow: 0px 0px 12px rgba(111, 110, 255, 0.5);
+
+
+/* Получать рассылку */
+
+position: absolute;
+height: 10px;
+left: 0%;
+right: 46.36%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Rectangle 34 Copy */
+
+position: absolute;
+width: 280px;
+height: 1px;
+left: 0px;
+top: 570px;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.06;
+
+
+/* games */
+
+position: absolute;
+width: 280px;
+height: 448px;
+left: 0px;
+top: 102px;
+
+
+
+/* ОБРАТНАЯ СВЯЗЬ */
+
+position: absolute;
+height: 18px;
+left: 10.71%;
+right: 48.93%;
+top: calc(50% - 18px/2 + 215px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+
+
+/* НОВОСТИ */
+
+position: absolute;
+height: 18px;
+left: 10.71%;
+right: 65.36%;
+top: calc(50% - 18px/2 + 182px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+
+
+/* ПРАВИЛА ПОСТУПЛЕНИЯ */
+
+position: absolute;
+height: 18px;
+left: 10.71%;
+right: 29.29%;
+top: calc(50% - 18px/2 + 149px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+
+
+/* Sport */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 67.86%;
+bottom: 23.21%;
+
+
+
+/* Rectangle 2 Copy 5 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0;
+
+
+/* Data */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 57.5%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 18.21%;
+right: 76.07%;
+top: 30%;
+bottom: 30%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Shape */
+
+position: absolute;
+left: 18.86%;
+right: 78.11%;
+top: 32.47%;
+bottom: 51.34%;
+
+background: #778090;
+
+
+/* Shape */
+
+position: absolute;
+left: 20.24%;
+right: 76.85%;
+top: 30%;
+bottom: 53.94%;
+
+background: #778090;
+
+
+/* Shape */
+
+position: absolute;
+left: 20.92%;
+right: 76.2%;
+top: 38.43%;
+bottom: 41.75%;
+
+background: #778090;
+
+
+/* Shape */
+
+position: absolute;
+left: 20.94%;
+right: 76.07%;
+top: 48.31%;
+bottom: 30.32%;
+
+background: #778090;
+
+
+/* Shape */
+
+position: absolute;
+left: 19.57%;
+right: 78.83%;
+top: 45.21%;
+bottom: 30%;
+
+background: #778090;
+
+
+/* Shape */
+
+position: absolute;
+left: 18.21%;
+right: 79.78%;
+top: 39.44%;
+bottom: 33.24%;
+
+background: #778090;
+
+
+/* Intellectual */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 58.93%;
+bottom: 32.14%;
+
+
+
+/* Rectangle 2 Copy 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0;
+
+
+/* Angular */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 50.36%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 18.21%;
+right: 76.07%;
+top: 27.5%;
+bottom: 27.5%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Fill 1 */
+
+position: absolute;
+left: 19.73%;
+right: 79.12%;
+top: 46.56%;
+bottom: 39.8%;
+
+background: #778090;
+
+
+/* Fill 3 */
+
+position: absolute;
+left: 21.26%;
+right: 77.59%;
+top: 46.5%;
+bottom: 39.76%;
+
+background: #778090;
+
+
+/* Fill 5 */
+
+position: absolute;
+left: 21.26%;
+right: 77.59%;
+top: 58.77%;
+bottom: 27.63%;
+
+background: #778090;
+
+
+/* Fill 7 */
+
+position: absolute;
+left: 19.73%;
+right: 79.12%;
+top: 58.87%;
+bottom: 27.5%;
+
+background: #778090;
+
+
+/* Fill 9 */
+
+position: absolute;
+left: 19.93%;
+right: 77.79%;
+top: 39.72%;
+bottom: 51.4%;
+
+background: #778090;
+
+
+/* Fill 11 */
+
+position: absolute;
+left: 18.22%;
+right: 80.64%;
+top: 40.34%;
+bottom: 45.93%;
+
+background: #778090;
+
+
+/* Fill 13 */
+
+position: absolute;
+left: 22.79%;
+right: 76.07%;
+top: 40.33%;
+bottom: 45.88%;
+
+background: #778090;
+
+
+/* Fill 15 */
+
+position: absolute;
+left: 18.41%;
+right: 79.32%;
+top: 33.61%;
+bottom: 57.51%;
+
+background: #778090;
+
+
+/* Fill 17 */
+
+position: absolute;
+left: 21.45%;
+right: 76.27%;
+top: 33.75%;
+bottom: 57.5%;
+
+background: #778090;
+
+
+/* Fill 19 */
+
+position: absolute;
+left: 19.95%;
+right: 77.81%;
+top: 27.5%;
+bottom: 63.67%;
+
+background: #778090;
+
+
+/* Fill 22 */
+
+position: absolute;
+left: 18.21%;
+right: 80.64%;
+top: 52.59%;
+bottom: 33.74%;
+
+background: #778090;
+
+
+/* Fill 25 */
+
+position: absolute;
+left: 22.79%;
+right: 76.07%;
+top: 52.59%;
+bottom: 33.74%;
+
+background: #778090;
+
+
+/* Strategy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 50%;
+bottom: 41.07%;
+
+
+
+/* Rectangle 2 Copy 4 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0;
+
+
+/* React */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 55.71%;
+top: calc(50% - 10px/2 + 1px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Fill 1 */
+
+position: absolute;
+left: 18.93%;
+right: 76.79%;
+top: 30%;
+bottom: 27.5%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Path */
+
+position: absolute;
+left: 19.72%;
+right: 77.58%;
+top: 42.59%;
+bottom: 55.05%;
+
+background: #778090;
+
+
+/* Path */
+
+position: absolute;
+left: 19.34%;
+right: 77.19%;
+top: 62.52%;
+bottom: 35.09%;
+
+background: #778090;
+
+
+/* Path */
+
+position: absolute;
+left: 18.95%;
+right: 76.8%;
+top: 67.53%;
+bottom: 27.5%;
+
+background: #778090;
+
+
+/* Path */
+
+position: absolute;
+left: 19.75%;
+right: 77.6%;
+top: 47.54%;
+bottom: 40.06%;
+
+background: #778090;
+
+
+/* Path */
+
+position: absolute;
+left: 18.93%;
+right: 76.79%;
+top: 30%;
+bottom: 59.92%;
+
+background: #778090;
+
+
+/* Casual */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 41.07%;
+bottom: 50%;
+
+
+
+/* Rectangle 2 Copy 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0;
+
+
+/* JavaScript */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 46.43%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Fill 1 */
+
+position: absolute;
+left: 23.57%;
+right: 71.43%;
+top: 27.5%;
+bottom: 27.5%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Adventure */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 32.14%;
+bottom: 58.93%;
+
+
+
+/* Rectangle 2 Copy */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0;
+
+
+/* GIT */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 59.64%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Shape */
+
+position: absolute;
+left: 18.93%;
+right: 76.79%;
+top: 27.5%;
+bottom: 27.5%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Path */
+
+position: absolute;
+left: 18.93%;
+right: 76.79%;
+top: 27.5%;
+bottom: 27.5%;
+
+background: #778090;
+
+
+/* Path */
+
+position: absolute;
+left: 20.55%;
+right: 78.38%;
+top: 40.17%;
+bottom: 52.44%;
+
+background: #778090;
+
+
+/* Action */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 23.21%;
+bottom: 67.86%;
+
+
+
+/* Rectangle 2 Copy 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 93.97%);
+mix-blend-mode: normal;
+opacity: 0.03;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 98.93%;
+top: 0%;
+bottom: 0%;
+
+background: #6F6EFF;
+box-shadow: 0px 0px 12px rgba(111, 110, 255, 0.5);
+
+
+/* HTML/CSS */
+
+position: absolute;
+height: 10px;
+left: 32.86%;
+right: 43.21%;
+top: calc(50% - 10px/2);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height, or 71% */
+
+color: #FFFFFF;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 17.86%;
+right: 75.71%;
+top: 72.5%;
+bottom: -17.5%;
+
+background: #6F6EFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Shape */
+
+position: absolute;
+left: 17.94%;
+right: 79.25%;
+top: 47.82%;
+bottom: 32.47%;
+
+background: #6868FF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Shape */
+
+position: absolute;
+left: 17.86%;
+right: 80.96%;
+top: 35.74%;
+bottom: 56.03%;
+
+background: #6868FF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Shape */
+
+position: absolute;
+left: 19.56%;
+right: 75.71%;
+top: 72.5%;
+bottom: -5.55%;
+
+background: #6868FF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 85.71%;
+right: 10.71%;
+top: 17.41%;
+bottom: 81.25%;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ЛЕКЦИИ */
+
+position: absolute;
+height: 20px;
+left: 10.71%;
+right: 68.57%;
+top: calc(50% - 20px/2 - 148px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* МЕНТОРЫ */
+
+position: absolute;
+height: 20px;
+left: 10.71%;
+right: 66.07%;
+top: calc(50% - 20px/2 - 181px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* Combined Shape Copy 2 */
+
+position: absolute;
+left: 85.71%;
+right: 10.71%;
+top: 2.68%;
+bottom: 95.98%;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Программа */
+
+position: absolute;
+height: 20px;
+left: 10.71%;
+right: 56.43%;
+top: calc(50% - 20px/2 - 214px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 34 Copy 3 */
+
+position: absolute;
+width: 280px;
+height: 1px;
+left: 0px;
+top: 71px;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 138px;
+height: 37px;
+left: 30px;
+top: 19px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+left: 0%;
+right: -0.82%;
+top: 27.27%;
+bottom: 0%;
+
+
+
+/* BEEINTERNS */
+
+position: absolute;
+height: 34px;
+left: 0%;
+right: -12.84%;
+top: calc(50% - 34px/2 + 4.55px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: bold;
+font-size: 22.1818px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+
+
+/* 2022 */
+
+position: absolute;
+height: 16px;
+left: 80.06%;
+right: -2.19%;
+top: calc(50% - 16px/2 - 8.5px);
+
+font-family: Jost;
+font-style: normal;
+font-weight: 500;
+font-size: 10.7331px;
+line-height: 16px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Beeline_2021 */
+
+position: absolute;
+width: 40.43px;
+height: 7.68px;
+left: 1.22px;
+top: 6.85px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 23.86%;
+right: 73.97%;
+top: 19.71%;
+bottom: 76.76%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 12.44%;
+right: 84.63%;
+top: 24.33%;
+bottom: 62.94%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 8.2%;
+right: 88.28%;
+top: 18.56%;
+bottom: 62.7%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 8.2%;
+right: 88.28%;
+top: 18.56%;
+bottom: 62.7%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 8.94%;
+right: 89.02%;
+top: 27.13%;
+bottom: 65.5%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 27.33%;
+right: 69.82%;
+top: 24.33%;
+bottom: 62.94%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 23.49%;
+right: 73.58%;
+top: 24.33%;
+bottom: 62.94%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 16%;
+right: 80.95%;
+top: 24.33%;
+bottom: 62.76%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 19.81%;
+right: 77.16%;
+top: 24.03%;
+bottom: 62.72%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 19.81%;
+right: 77.16%;
+top: 24.03%;
+bottom: 62.72%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 20.52%;
+right: 78.23%;
+top: 30.24%;
+bottom: 65.38%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 0.89%;
+right: 93.5%;
+top: 18.5%;
+bottom: 60.76%;
+
+background: #FFC800;
+
+
+/* Path */
+
+position: absolute;
+left: 2.25%;
+right: 93.51%;
+top: 28.72%;
+bottom: 60.75%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 1.23%;
+right: 95.91%;
+top: 18.5%;
+bottom: 74.03%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 0.89%;
+right: 93.83%;
+top: 19.73%;
+bottom: 64.27%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 0.89%;
+right: 93.5%;
+top: 18.5%;
+bottom: 60.76%;
+
+background: radial-gradient(49.97% 49.97% at 49.99% 50.02%, rgba(255, 255, 255, 0.0001) 50%, rgba(255, 255, 255, 0.35) 100%);
